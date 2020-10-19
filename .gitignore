@@ -30,3 +30,7 @@ yarn.lock
 #images
 *.png
 *.jpg
+
+
+#backend database
+*.sql
